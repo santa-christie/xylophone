@@ -1,10 +1,12 @@
-# xylo
+# xylophone
 
-A new Flutter project.
+A Xylophone app.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this application I've used functions and handled sounds.
+That was so curious....
+And there you Go....
 
 A few resources to get you started if this is your first Flutter project:
 
